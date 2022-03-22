@@ -25,15 +25,15 @@ github_username: cris.j.dev
 linkedin_username: cris-j-dev
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  - title: itsgoingto.be
+    icon: fas fa-globe
+    url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,9 +48,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  AI 서비스 백엔드 아키텍쳐 설계 및 구축에 기여하고 싶습니다.
+  첫 회사를 퇴사한 후 알고리즘에 대해 더 깊이 공부하고자 대학원 진학을 하였습니다. 운전 부주의로 인한 사고를 방지하기 위한 객체 상태 인식(운전자 상태 인식)연구에 가치를 느껴 휴먼컴퓨터인터랙션(HCI) 연구실에 합류하였습니다. 연구에 적용하기 위해 Lasagne/Caffe, Python을 배우며 딥러닝 세계에 접어들게 되었습니다. 
+  딥 러닝을 이용하여 이미지 검색, 주가 예측, 화질 개선, 생체 신호 인식 등 다양한 프로젝트를 진행하였지만 아직 대중에게 필요한 서비스를 제공하지 못했다는 갈증이 있습니다.
+  사람을 위한 가치, 그리고 그 가치를 위한 기술을 추구하며 개발자로서의 여정을 나아가고 있습니다. 사람들에게 가치를 주는 서비스 개발에 기여하여 발자취를 남기고 싶다는 갈증이 있습니다.
 
 content:
   - title: Projects # Title for the section
@@ -61,7 +62,7 @@ content:
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title: sproogen/modern-resume-theme
             icon: fab fa-github
             url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
@@ -84,7 +85,7 @@ content:
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -124,4 +125,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag

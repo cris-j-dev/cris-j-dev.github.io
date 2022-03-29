@@ -600,6 +600,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       - 곧 아이 아빠
       - 보드게임
+      - ISTJ
 
 # Footer
 footer_show_references: true

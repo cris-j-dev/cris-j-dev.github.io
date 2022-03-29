@@ -487,12 +487,13 @@ content:
     content:
       - layout: left
         sub_title: 대회
-        caption: Pytorch Korea (Runners-up 수상)
+        caption: Pytorch Korea
         date: 2019.01.06
         quote: >
           PyTorch KR Tutorial Competition 2018
         description: |
-          - PYTORCH를 이용한 딥 러닝 네트워크 구현 대회 - YOLO 구현
+          - PYTORCH를 이용한 딥 러닝 네트워크 구현 대회 - YOLO 구현     
+          - Runners-up 수상
 
       - layout: left
         sub_title: 강의
@@ -519,7 +520,8 @@ content:
         quote: >
           Gastrointestinal Image Analysis
         description: |
-          - 의학영상을 이용한 종양검출 (GIANADataset 사용)
+          - 의학영상을 이용한 종양검출  
+          - GIANADataset 사용
 
       - layout: left
         sub_title: 대회
@@ -596,13 +598,8 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image
+      - 곧 아이 아빠
+      - 보드게임
 
 # Footer
 footer_show_references: true

@@ -120,65 +120,67 @@ content:
         quote: |
           MLOps의 하이퍼파라미터 최적화 알고리즘의 비교
         date: 2021.11
-        description: |
-          추계종합학술
-        sub_title: 한국통신학회
+        sub_title: 추계종합학술
+        caption: 한국통신학회
 
       - layout: left
         quote: |
           Comparison of PSD Correlation between HRV and PRV(Research Poster Papers)
         date: 2021.07
+        sub_title: IEEE ENGINEERING IN MEDICINE AND BIOLOGY SOCIETY
+        caption: EMBC
         description: |
-          IEEE ENGINEERING IN MEDICINE AND BIOLOGY SOCIETY
-        sub_title: EMBC
+          This paper compares whether PPG signals can replace ECG signals. With that method, the Welch's method, Lomb-Scargle, and Autoregressive algorithms are compared to calculate the PRV from the PPG signal and compare the similarity with the HRV-PSD.
 
       - layout: left
         quote: |
           스마트폰 카메라를 이용한 손가락 PPG데이터 추출 시 색 공간에 대한 비교 분석 연구
         date: 2021.06
+        sub_title: 하계종합학술대회
+        caption: 한국통신학회
         description: |
-          하계종합학술대회
-        sub_title: 한국통신학회
+          본 논문은 스마트폰의 카메라를 구성하는 이미지센서와 함께 구성되어 있는 조명용 LED를 이용하여 LED의 확산 반사 손가락 동영상을 기반으로 PPG데이터를 추출함에 있어 다양한 색 공간 및 변이에 대한 비교 연구이다. 이를 통한 영상기반 PPG 데이터는 심박변이도 등을 추출할 수 있으며, 스트레스, 심혈관 기능 등을 분석할 수 있다. 동영상에서 추출되는 혈관의 변화를 통한 PPG 추출을 위하여 사용되는 색상의 변화는 RGB, YCbCr, HSV의 색 공간에 따라 변화를 사용하였으며 정확한 데이터 추출을 위한 다양한 비교, 분석을 연구하였다.
 
       - layout: left
         quote: |
           집중력 향상 모니터링을 위한 뇌파 측정 및 분석 시스템
         date: 2020.11
+        sub_title: 추계종합학술대회
+        caption: 한국통신학회
         description: |
-          추계종합학술대회
-        sub_title: 한국통신학회
+          본 논문은 집중도 모니터링에 필요한 뇌파 측정 헤드밴드 기기 및 뇌파 분석 시스템의 구성 및 방법을 제안한다. 집중도를 향상시키기 위해서는 뇌파를 통해 집중도 변화를 모니터링을 하여 어떤 상황에서 집중도가 향상되는지 파악하는 것이 중요하다. 뇌파 수집을 위한 디바이스 및 연동되는 안드로이드 애플리케이션과 집중도 연산에 필요한 서버를 연동한다. 집중도 결과를 사용자에게 모니터링 할 수 있게 하여 빠른 피드백을 통해 집중도 향상을 할 수 있도록 도와준다. 개인마다 다른 기준 뇌파의 범위를 측정하여 자신에 맞는 개인화된 집중도를 측정할 수 있다. 본 논문에서는 집중도를 개인화하여 연산하는 방법 및 측정에서 모니터링까지 시스템 구성을 위한 방법을 제안한다.
 
       - layout: left
         quote: |
           심전도와 광용적맥파의 심박변이도 유사성 연구
         date: 2020.11
+        sub_title: 추계학술대회
+        caption: 대한전자공학회
         description: |
-          추계학술대회
-        sub_title: 대한전자공학회
+          This paper studies the correlation between PPG (Pulse Rate Variable) which can be obtained through smartwatches and HRV (Heart Rate Variable) obtained through existing ECG (Electrocardiogram). Using Welch's method, Lomb-Scargle periodogram, and Autoregressive method, obtain PRV to replace HRV.
 
       - layout: left
         quote: |
           다양한 환경에서의 뇌파 분석을 통한 집중도 분석 연구
         date: 2020.02
+        sub_title: 동계종합학술대회
+        caption: 한국통신학회
         description: |
-          동계종합학술대회
-        sub_title: 한국통신학회
+          최근 스마트폰 등 디지털기기의 발달로 인해 사람들의 집중력이 줄어들고 있다. 낮아진 집중력을 향상시키기 위해 국내외에서 다양한 연구가 진행되어 있으며, 특히 뇌파를 이용한 방법이 많이 연구되고 있다. 뇌파의 특정 주파수 대의 파를 추출하여 집중력을 계산하기 위해서 최근에는 다양한 웨어러블 뇌파측정 장치가 개발되고 있다. 본 논문에서는 총 6가지의 다양한 상황에서 전두엽에서 발생하는 뇌파를 측정하고 어떠한 환경에서 집중력이 향상되는지 분석하는 기준을 제시한다.
 
       - layout: left
         quote: |
           조산 위험도 예측을 위한 STFT 기반의 자궁 수축 모니터링 알고리즘 연구
         date: 2019.06
-        description: |
-          하계종합학술대회
-        sub_title: 한국통신학회
+        sub_title: 하계종합학술대회
+        caption: 한국통신학회
 
       - layout: left
         quote: |
           딥 러닝 기반 머리 포즈 추정 및 얼굴 특징점 정렬에 관한 연구
         date: 2016.02
-        description: |
-          세종대학교 대학원 컴퓨터공학과
-        sub_title: 석사논문
+        sub_title: 세종대학교 대학원 컴퓨터공학과
+        caption: 석사논문
 
   - title: 특허 # Title for the section
     layout: list # Type of content section (list/text)
@@ -330,7 +332,7 @@ content:
         description: |
           - 사람의 `맥박`을 감지할 수 있는 하드웨어 센서에 맞는 소프트웨어.   
           - 센서에서 24채널의 데이터를 받아 맥박이 뛰는 것을 실시간 모니터링이 가능.   
-          - 센서에서 `HRV` 신호를 받아 의료진이 필요한 분포도, 히스토그램, 스펙트럼 밀도 등을 분석할 수 있는 기능을 개발.
+          - 센서에서 `HRV` 신호를 받아 의료진이 필요한 분포도, 히스토그램, 스펙트럼 밀도 등을 분석할 수 있는 기능을 개발.   
           ![image04](./images/image04.png)
 
       - layout: left
@@ -595,11 +597,11 @@ content:
         description: |
           - 다양한 딥 러닝 툴 비교 및 설명
 
-  - title: A Little More About Me
+  - title: 조금 더 ... ?
     layout: text
     content: | # this will include new lines to allow paragraphs
       - 곧 아이 아빠
-      - 보드게임
+      - 보드게임 매니아
       - ISTJ
 
 # Footer

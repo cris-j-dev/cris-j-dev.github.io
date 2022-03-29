@@ -117,43 +117,50 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        main: MLOps의 하이퍼파라미터 최적화 알고리즘의 비교
+        quote: |
+          MLOps의 하이퍼파라미터 최적화 알고리즘의 비교
         date: 2021.11
         caption: 추계종합학술
         sub_title: 한국통신학회
 
       - layout: left
-        main: Comparison of PSD Correlation between HRV and PRV(Research Poster Papers)
+        quote: |
+          Comparison of PSD Correlation between HRV and PRV(Research Poster Papers)
         date: 2021.07
         caption: IEEE ENGINEERING IN MEDICINE AND BIOLOGY SOCIETY
         sub_title: EMBC
 
       - layout: left
-        main: 스마트폰 카메라를 이용한 손가락 PPG데이터 추출 시 색 공간에 대한 비교 분석 연구
+        quote: |
+          스마트폰 카메라를 이용한 손가락 PPG데이터 추출 시 색 공간에 대한 비교 분석 연구
         date: 2021.06
         caption: 하계종합학술대회
         sub_title: 한국통신학회
 
       - layout: left
-        main: 집중력 향상 모니터링을 위한 뇌파 측정 및 분석 시스템
+        quote: |
+          집중력 향상 모니터링을 위한 뇌파 측정 및 분석 시스템
         date: 2020.11
         caption: 추계종합학술대회
         sub_title: 한국통신학회
 
       - layout: left
-        main: 심전도와 광용적맥파의 심박변이도 유사성 연구
+        quote: |
+          심전도와 광용적맥파의 심박변이도 유사성 연구
         date: 2020.11
         caption: 추계학술대회
         sub_title: 대한전자공학회
 
       - layout: left
-        main: 다양한 환경에서의 뇌파 분석을 통한 집중도 분석 연구
+        quote: |
+          다양한 환경에서의 뇌파 분석을 통한 집중도 분석 연구
         date: 2020.02
         caption: 동계종합학술대회
         sub_title: 한국통신학회
 
       - layout: left
-        main: 조산 위험도 예측을 위한 STFT 기반의 자궁 수축 모니터링 알고리즘 연구
+        quote: |
+          조산 위험도 예측을 위한 STFT 기반의 자궁 수축 모니터링 알고리즘 연구
         date: 2019.06
         caption: 하계종합학술대회
         sub_title: 한국통신학회
@@ -165,7 +172,8 @@ content:
         caption: 산업통산자원부
         sub_title: 출원
         date: 2020.11.27
-        main: 임상적 유효성을 갖는 TES 기반 다감각 자극을 이용한 스트레스 케어 기기 개발 및 서비스 기술 개발
+        quote: |
+          임상적 유효성을 갖는 TES 기반 다감각 자극을 이용한 스트레스 케어 기기 개발 및 서비스 기술 개발
         description: |
           - 뇌파 데이터 기반 수면 단계 분석 방법
 
@@ -173,7 +181,8 @@ content:
         caption: 산업통산자원부
         sub_title: 출원
         date: 2021.11.26
-        main: 모바일 기반 비대면 정신건강 케어를 위한 디지털 치료제 조기 사업화 기술 개발
+        quote: |
+          모바일 기반 비대면 정신건강 케어를 위한 디지털 치료제 조기 사업화 기술 개발
         description: |
           - 스마트 폰 카메라 영상 기반의 PPG 복원 방법 및 장치
 
@@ -181,15 +190,17 @@ content:
         caption: 산업통산자원부
         sub_title: 출원
         date: 2021.11.29
-        main: 임상적 유효성을 갖는 TES 기반 다감각 자극을 이용한 스트레스 케어 기기 개발 및 서비스 기술 개발
+        quote: |
+          임상적 유효성을 갖는 TES 기반 다감각 자극을 이용한 스트레스 케어 기기 개발 및 서비스 기술 개발
         description: |
           - 뇌파를 통한 인공지능 기반 수면단계 검출 방법
 
-      - layout: left
+        - layout: left
         caption: 과학기술정보통신부
         sub_title: 출원
         date: 2021.12.31
-        main: 감염성 호흡기 질환 셀프 모니터링이 가능한 스마트 패치 및 다중생체정보 분석 알고리즘 기술개발
+        quote: |
+          감염성 호흡기 질환 셀프 모니터링이 가능한 스마트 패치 및 다중생체정보 분석 알고리즘 기술개발
         description: |
           - 생체신호 기반 감염성 호흡기 질환 모니터링 방법 및 시스템
           - 스마트폰 카메라 기반의 PPG를 이용한 감염성 호흡기 질환 감염 위험도 탐지방법

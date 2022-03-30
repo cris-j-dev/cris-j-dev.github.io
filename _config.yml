@@ -597,7 +597,7 @@ content:
         description: |
           - 다양한 딥 러닝 툴 비교 및 설명
 
-  - title: 조금 더 ... ?
+  - title: 그리고...
     layout: text
     content: | # this will include new lines to allow paragraphs
       - 곧 아이 아빠

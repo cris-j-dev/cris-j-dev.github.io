@@ -291,6 +291,7 @@ content:
         description: |
           - 인공지능 그랜드 챌린지 인프라 중 참가자의 도커 파일을 생성 및 빌드, 실행하여 결과를 도출하는 자동화 서버 개발.    
           - `도커 파일 메이커`, `도커 파일 빌드`를 수행하는 2가지 기능이 핵심이며 메시지큐를 이용하여 서버 동기화 개발.   
+              
           ![image07](./images/image07.png)
 
       - layout: left
@@ -301,6 +302,7 @@ content:
         description: |
           - GPS 위치를 기반으로 주변 지역의 환자 발생 현황을 보여주는 안드로이드 앱 개발.  
           - 데이터를 저장하는 DB서버 및 안드로이드 앱과 연동되는 API 개발.            
+              
           ![image06](./images/image06.png)
 
       - layout: left
@@ -313,6 +315,7 @@ content:
           - 라이브러리 형태로 Python개발 및 Docker Image 구성.  
           - 외부에서 사용가능한 REST API 개발 및 C++에서 사용가능한 API 개발.             
           - C++과 Python에서 사용가능한 양방향 API 개발.         
+              
           ![image05](./images/image05.png)
 
       - layout: left
@@ -353,6 +356,7 @@ content:
           - 사람의 `맥박`을 감지할 수 있는 하드웨어 센서에 맞는 소프트웨어.   
           - 센서에서 24채널의 데이터를 받아 맥박이 뛰는 것을 실시간 모니터링이 가능.   
           - 센서에서 `HRV` 신호를 받아 의료진이 필요한 분포도, 히스토그램, 스펙트럼 밀도 등을 분석할 수 있는 기능을 개발.   
+              
           ![image04](./images/image04.png)
 
       - layout: left
@@ -412,6 +416,7 @@ content:
           - ASM 얼굴모델을 이용하여 3D가면의 Shape을 적용.   
           - 아프리카TV와 같이 가상 캠을 이용한 곳에서 사용할 수 있게 개발이 되었고 가면과 다양한 이모티콘을 띄울 수 있게 개발.   
           - 가면과 이모티콘 등의 효과는 제공받았으며, MFC와 Python, 가상 캠, DB 연동을 직접 구현.   
+              
           ![image03](./images/image03.png)
 
       - layout: left
@@ -444,6 +449,7 @@ content:
           - 머리 포즈 추정 실험의 오류를 측정하는 방법으로 Mean Absolute Error(MAE)를 사용하여 비교하였으며, Roll, Pitch, Yaw의 MAE는 각각 0.78, 0.99, 1.40의 값을 가짐.  
           - 또한 얼굴 특징점 정렬은 Mean Absolute Percent Error(MAPE)를 사용하여 오차 계산.   
           - 21개의 각각의 특징점 평균 오차 약 1.0으로 기존의 평균보다 뛰어난 성능 보임.   
+              
           ![image00](./images/image00.png)
 
       - layout: left
@@ -459,6 +465,7 @@ content:
           - 얼굴 특징점을 얻을 수 있어 눈 깜빡임과 하품 등의 상태를 판단 가능.   
           - 운전자 상태 판단을 모두 CNN을 이용하여 구성. 단일 카메라로 하품, 졸음 (머리의 각도), 시선(시선 부주의) 등을 판단.   
           - 기존에는 다양한 센서를 이용했어야 했지만 단일 카메라로 구성할 수 있다는 것이 가장 큰 장점.    
+              
           ![image02](./images/image02.png)
 
       - layout: left
@@ -470,6 +477,7 @@ content:
           - 기존 ASM 얼굴 모델의 각 특징점에 MOSSE Filter를 적용하여 특징점 자체를 추적하여 만드는 얼굴 모델.   
           - 특징점의 MOSSE Filter가 업데이트 되어 폐색 상황에서도 지속적인 얼굴 모델 제작 가능. 얼굴 모델이 추적할 수 있기 때문에 POSE Estimation도 가능.   
           - 부분적인 움직임에도 얼굴 모델 제작이 가능하기 때문에 전남대와 연계하여 통풍 환자의 얼굴을 보고 병의 유무를 판단할 수 있는 프로그램을 개발.   
+              
           ![image01](./images/image01.png)
 
       - layout: left

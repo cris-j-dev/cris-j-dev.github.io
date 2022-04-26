@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Chanhee Jeong
-title: Computer Vision and Deep Learning Software Engineer
+title: ML/DL Software Engineer
 email: cris.j.dev@gmail.com
 website: https://cris-j-dev.github.io/
 
@@ -61,11 +61,10 @@ about_content: | # this will include new lines to allow paragraphs
   사람을 위한 가치, 그리고 그 가치를 위한 기술을 추구하며 개발자로서의 여정을 나아가고 있습니다.          
   사람들에게 가치를 주는 서비스 개발에 기여하여 발자취를 남기고 싶다는 갈증이 있습니다.          
         
-  `#C` `#C++` `#Python` `#vim` `#shell`  
+  `#C` `#C++` `#Python` `#Vim` `#Shell`  
   `#Linux` `#Network` `#Algorithm` `#Server` `#Docker`  
-  `#Image-Processing` `#Signal-Processing`  
-  `#Human-Computer-Interaction`  
-  `#Machine-Learning` `#Deep-Learning`
+  `#Image-Processing` `#Signal-Processing` `#Machine-Learning` `#Deep-Learning`
+  `#Human-Computer-Interaction`
 
 content:
   - title: 경력 # Title for the section

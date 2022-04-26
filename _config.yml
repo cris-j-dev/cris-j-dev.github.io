@@ -628,9 +628,9 @@ content:
   - title: 그리고...
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - 신뢰와 책임
       - 곧 아이 아빠
       - 보드게임 매니아
-      - 마감일 최우선
 
 # Footer
 footer_show_references: true

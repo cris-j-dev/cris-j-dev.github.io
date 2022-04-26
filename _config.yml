@@ -56,7 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
         
   `#C` `#C++` `#Python` `#Vim` `#Shell`  
   `#Linux` `#Network` `#Algorithm` `#Server` `#Docker`  
-  `#Image-Processing` `#Signal-Processing` `#Machine-Learning` `#Deep-Learning`
+  `#Image-Processing` `#Signal-Processing` `#Machine-Learning` `#Deep-Learning`     
   `#Human-Computer-Interaction`
 
 content:
